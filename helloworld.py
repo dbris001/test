@@ -1,1 +1,2 @@
-New File
+# This file will print Hello, world!
+Print (‘Hello, world!’)
